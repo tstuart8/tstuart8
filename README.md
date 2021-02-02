@@ -1,4 +1,4 @@
-I'm Taylor Stuart!
+Hey there! I'm Taylor Stuart!
 
 I am an analytics team lead at Vivint SmartHome. I´m based in Provo, UT.
 
