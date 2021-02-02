@@ -1,16 +1,13 @@
-### Hi there 👋
+I'm Taylor Stuart!
 
-<!--
-**tstuart8/tstuart8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an analytics team lead at Vivint SmartHome. I´m based in Provo, UT.
 
-Here are some ideas to get you started:
+Since 2015 I've been gaining experience in both consultative and operational analytics. I've developed skills in R, Python, SQL, and Tableau for use in both statistics and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm focusing on 👨‍💻
+
+I'm working to improve my skills in statistical methods, machine learning, and data visualization. See my [Github Page](https://tstuart8.github.io)
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taylor-stuart-8a00ba74/)](https://www.linkedin.com/in/taylor-stuart-8a00ba74/) 
