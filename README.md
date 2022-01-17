@@ -6,7 +6,7 @@ Since 2015 I've been gaining experience in both consultative and operational ana
 
 ### What I'm focusing on 👨‍💻
 
-I'm working to improve my skills in statistical methods, machine learning, and data visualization. See my [Github Page](https://tstuart8.github.io)
+I'm working to improve my skills in statistical methods, machine learning, and data visualization. See my [Portfolio](https://tstuart8.github.io)
 
 ### Find me elsewhere 🌎
 
