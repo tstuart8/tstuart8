@@ -1,6 +1,6 @@
 Hey there! I'm Taylor Stuart!
 
-I am a Strategy and Analytics Manager at Vivint SmartHome. I´m based in Provo, UT.
+I am a Strategy and Analytics Manager at Vivint SmartHome. I´m based in Layton, UT.
 
 Since 2015 I've been gaining experience in both consultative and operational analytics. I've developed skills in R, Python, SQL, and Tableau for use in both statistics and machine learning.
 
